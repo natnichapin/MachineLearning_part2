@@ -1,2 +1,2 @@
 ### Machine Learning Part 2 - Practice in class kmutt 
--week 6 train teachablemachine and get model to use
+-week 6 To Train teachablemachine, then, provide a model to use
