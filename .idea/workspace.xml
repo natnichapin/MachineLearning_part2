@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1314943-1f61-48c7-8093-90afd34dbb24" name="Changes" comment="test teachable Machine">
+    <list default="true" id="a1314943-1f61-48c7-8093-90afd34dbb24" name="Changes" comment="add images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "natnichapin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;natnichapin&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/natnichapin/MachineLearning_part2.git",
-    "accountId": "b09ebecf-9df6-48a6-a0bf-ff39a665f00d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/natnichapin/MachineLearning_part2.git&quot;,
+    &quot;accountId&quot;: &quot;b09ebecf-9df6-48a6-a0bf-ff39a665f00d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -45,21 +45,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Linear_Regression.executor": "Run",
+    "Python.Ridge_Regression.executor": "Run",
+    "Python.Ridge_Regression_test.executor": "Run",
     "Python.hw1.executor": "Run",
     "Python.hw1[Precision,Recall,F-Score].executor": "Run",
     "Python.hw1[confusionMatrix].executor": "Run",
     "Python.hw1[loopAlltrain].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Applications/All/KmuttStudy ปี4 เทอม2/INT421/PythonProject"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.venv/week2/data" />
+      <recent name="$PROJECT_DIR$/.venv/week2" />
       <recent name="$PROJECT_DIR$/.venv" />
       <recent name="$PROJECT_DIR$/.venv/bin" />
       <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -94,11 +99,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740776605593</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add images">
+      <option name="closed" value="true" />
+      <created>1740913258072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740913258072</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test teachable Machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="test teachable Machine" />
+    <MESSAGE value="add images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add images" />
   </component>
 </project>
